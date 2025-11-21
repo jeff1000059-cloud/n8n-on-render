@@ -7,4 +7,4 @@ ENV N8N_HOST=${N8N_HOST}
 
 EXPOSE 5678
 
-CMD ["n8n"]
+CMD ["n8n","start"]
